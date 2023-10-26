@@ -2,12 +2,6 @@
 
 > stephenlittleton designed Jekyll theme for personal websites, portfolios and resumes.
 
-* Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-stephenlittleton/)
-* Featured on [Jekyll Themes](https://jekyll-themes.com/stephenlittleton/)
-* Featured on [jekyllthemes](http://jekyllthemes.org/themes/stephenlittleton/)
-
-[![Open Issues](https://badgen.net/github/open-issues/longpdo/stephenlittleton)](https://github.com/longpdo/stephenlittleton/issues)
-[![License](https://badgen.net/github/license/longpdo/stephenlittleton)](LICENSE)
 <a href="https://jekyll-themes.com">
     <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
