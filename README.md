@@ -2,6 +2,7 @@
 
 > stephenlittleton designed Jekyll theme for personal websites, portfolios and resumes.
 
+[Can Be Viewed Here In Action](https://dev.stephenlittleton.com) [https://dev.stephenlittleton.com](https://dev.stephenlittleton.com)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents <!-- omit in toc -->
