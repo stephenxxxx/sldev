@@ -1,0 +1,42 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Social Media
+  weight: 5
+
+- name: Websites
+  weight: 5
+
+- name: Streaming Services
+  weight: 3
+
+- name: Music and Audio
+  weight: 1
+
+- name: Videos
+  weight: 5
+
+- name: Online Research
+  weight: 1
+
+- name: Downloads
+  weight: 2
+
+- name: Programming
+  weight: 4
+
+- name: Art
+  weight: 4
+
+- name: Commerce
+  weight: 4
+
+- name: News
+  weight: 2
+
+- name: Finances
+  weight: 2

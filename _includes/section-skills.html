@@ -1,0 +1,40 @@
+<h2 
+  class="title"
+>{{site.skills_title}}
+</h2>
+
+<div id="skills">
+  <input 
+    type="radio" 
+    id="all" 
+    name="filter" 
+    checked 
+  />
+  {% for language in site.data.skills-languages %}
+    <div 
+      skill-type="language" 
+      skill-weight="{{language.weight}}" 
+      data-aos="fade-down"
+    >
+      {{language.name}}
+    </div>
+  {% endfor %}
+  {% for framework in site.data.skills-frameworks %}
+    <div 
+      skill-type="framework" 
+      skill-weight="{{framework.weight}}" 
+      data-aos="fade-down"
+    >
+      {{framework.name}}
+    </div>
+  {% endfor %}
+  {% for tool in site.data.skills-tools %}
+    <div 
+      skill-type="tool" 
+      skill-weight="{{tool.weight}}" 
+      data-aos="fade-down"
+    >
+      {{tool.name}}
+    </div>
+  {% endfor %}
+</div>

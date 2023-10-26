@@ -1,0 +1,33 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: FreeBSD
+  weight: 2
+
+- name: Slackware
+  weight: 4
+
+- name: Linux
+  weight: 5
+
+- name: UNIX
+  weight: 5
+
+- name: Windows
+  weight: 5
+
+- name: Ubuntu
+  weight: 4
+
+- name: Fedora
+  weight: 4
+
+- name: RHEL
+  weight: 3
+
+- name: CentOS
+  weight: 3

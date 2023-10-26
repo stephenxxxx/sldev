@@ -1,0 +1,36 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Printers
+  weight: 4
+
+- name: Audio/Visual EQ
+  weight: 3
+
+- name: Cabling
+  weight: 5
+
+- name: Wireless
+  weight: 5
+
+- name: Racks
+  weight: 4
+
+- name: Security
+  weight: 4
+
+- name: CCTV Systems
+  weight: 2
+
+- name: Heavy Machinery 
+  weight: 5
+
+- name: Bulk Systems
+  weight: 3
+
+- name: Routers and Networking
+  weight: 1
