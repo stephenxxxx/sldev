@@ -2,11 +2,6 @@
 
 > stephenlittleton designed Jekyll theme for personal websites, portfolios and resumes.
 
-<a href="https://jekyll-themes.com">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
-
-[View Demo](https://longpdo.github.io/stephenlittleton/) · [Report Bug](https://github.com/longpdo/stephenlittleton/issues) · [Request Feature](https://github.com/longpdo/stephenlittleton/issues)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents <!-- omit in toc -->
